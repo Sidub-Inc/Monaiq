@@ -5,7 +5,7 @@
 **The developer-first licensing and monetization platform, built for the AI era.**
 
 [![Nuget](https://img.shields.io/nuget/v/Sidub.Licensing.Client)](https://www.nuget.org/packages/Sidub.Licensing.Client/)
-[![npm](https://img.shields.io/npm/v/@sidub/licensing-client)](https://www.npmjs.com/package/@sidub/licensing-client)
+[![npm](https://img.shields.io/npm/v/@sidub-inc/licensing-client)](https://www.npmjs.com/package/@sidub-inc/licensing-client)
 
 [Website](https://monaiq.com) | [Documentation](https://docs.monaiq.com) | [Discord](https://discord.gg/monaiq) | [Portal](https://portal.monaiq.com)
 
